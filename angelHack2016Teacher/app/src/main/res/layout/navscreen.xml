@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:columnCount="2"
+        android:rowCount="2"
+        android:background="#000000">
+
+        <Button
+            android:layout_width="190dp"
+            android:layout_height="250dp"
+            android:text="@string/form"
+            android:textColor="#fefff4"
+            android:fontFamily="sans-serif"
+            android:id="@+id/form"
+            android:background="#02bdf4"
+            android:layout_marginTop="10dp" />
+
+        <Button
+
+            android:layout_width="190dp"
+            android:layout_height="250dp"
+            android:text="@string/classlist"
+            android:textColor="#fefff4"
+            android:fontFamily="sans-serif"
+            android:id="@+id/class_list"
+            android:background="#0172b6"
+            android:layout_marginTop="10dp" />
+
+        <Button
+            android:layout_width="190dp"
+            android:layout_height="250dp"
+            android:textColor="#fefff4"
+            android:fontFamily="sans-serif"
+            android:text="@string/chat"
+            android:id="@+id/button3"
+            android:background="#207345" />
+
+        <Button
+            android:layout_width="190dp"
+            android:layout_height="250dp"
+            android:textColor="#fefff4"
+            android:fontFamily="sans-serif"
+            android:text="@string/timetable"
+            android:id="@+id/message_activity"
+            android:background="#d14722" />
+
+    </GridLayout>
+</LinearLayout>

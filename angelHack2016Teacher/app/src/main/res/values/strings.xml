@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">angelHack2016Teacher</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="grouparray">
+        <item>2A English</item>
+        <item>3C English</item>
+        <item>CCA Basketball7</item>
+
+    </string-array>
+
+    <string-array name="grouparray2">
+        <item>Consent Form - Food</item>
+        <item>Consent Form - Field Day</item>
+        <item>Edusave Form</item>
+    </string-array>
+
+    <string name="calender">Calender</string>
+    <string name="classlist">ClassList</string>
+    <string name="form">Form</string>
+    <string name="chat">Chat</string>
+    <string name="timetable">Timetable</string>
+</resources>
